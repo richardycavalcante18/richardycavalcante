@@ -1,5 +1,2 @@
 # richardycavalcante
-Nesta apresentação mostrei o passo-a-passo do processo de quando a máquina chega na empresa, e o que fazemos
-Nesses procedimentos inclui o Backup e Instalação do Windowns atráves da BIOS do desktok  
-Mostrei o procedimento de como configurar uma impressora:
-E por fim, O que é CI/CD no GitLab:
+Nesta apresentação mostrei o passo-a-passo do processo de quando a máquina chega na empresa incluindo o Backup e a Instalação do Windowns pela BIOS do desktop, Mostrei como configurar uma impressora baixando seus driver, e por fim uma simples anotação do que é CI/CD no GitLab
